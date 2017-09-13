@@ -1,0 +1,11 @@
+.item {
+    display: block;
+    padding: 20px 20px;
+    color: #222222;
+    text-decoration: none;
+}
+
+.col-title {
+    font-weight: bold;
+    padding-top: 20px;
+}

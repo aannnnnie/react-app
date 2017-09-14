@@ -9,3 +9,16 @@
     font-weight: bold;
     padding-top: 20px;
 }
+
+.col {
+    float: left;
+    width: 350px;
+}
+
+.repo-details{
+    padding-top: 20px;
+}
+
+.avatar {
+    width: 100px;
+}
